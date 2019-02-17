@@ -8,7 +8,7 @@ namespace TestApp
     public partial class Form1 : Form
     {
         private SharpUpdater updater;
-
+         
         public Form1()
         {
             InitializeComponent();
